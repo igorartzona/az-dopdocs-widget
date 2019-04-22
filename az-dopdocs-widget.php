@@ -2,7 +2,7 @@
 /*
  * Plugin Name: az-dopdocs-widget
  * Description: Виджет дополнительной документации для проекта termoshkaf. Для открытия ссылок в popup-окне используется плагин Popups - WordPress Popup
- * Version: 0.1
+ * Version: 1.0
  * Author: jvj 
  */
  
